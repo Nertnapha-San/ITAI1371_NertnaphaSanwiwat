@@ -1,1 +1,1 @@
-# ITAI_ML_FirstRepo_NertnaphaSanwiwat
+# ITAI 1371 Introduction to Machine Learning
